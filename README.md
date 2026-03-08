@@ -16,8 +16,6 @@ Backend-focused Software Engineer currently building stronger fundamentals in di
 **Databases:** Cassandra, Neo4j, PostgreSQL / SQL  
 **Tools:** Git, GitHub, Linux, IntelliJ, VS Code, Docker  
 
-**Currently Learning:** Distributed Systems, Backend Scalability, System Design
-
 
 
 <!--
