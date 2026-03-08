@@ -9,14 +9,6 @@ Backend-focused Software Engineer currently building stronger fundamentals in di
 * Currently strengthening **data structures & algorithms** and backend architecture skills
 * Exploring real-world engineering practices by studying **open source repositories and production systems**
 
-
-### Currently Working On
-
-* Building backend projects using **Java, Spring Boot**
-* Learning **microservices and scalable system design**
-* Practicing **Data Structures & Algorithms (LeetCode / competitive programming)**
-* Studying production codebases and engineering discussions in open source
-
 ## Tech Stack
 
 **Languages:** Java, C++ 
@@ -26,12 +18,6 @@ Backend-focused Software Engineer currently building stronger fundamentals in di
 
 **Currently Learning:** Distributed Systems, Backend Scalability, System Design
 
-## What I'm Focused On
-
-* Writing **clean and maintainable backend code**
-* Understanding **production-scale system architecture**
-* Improving **problem solving and algorithmic thinking**
-* Becoming a **strong backend engineer**
 
 
 <!--
