@@ -9,12 +9,6 @@ Backend-focused Software Engineer currently building stronger fundamentals in di
 * Currently strengthening **data structures & algorithms** and backend architecture skills
 * Exploring real-world engineering practices by studying **open source repositories and production systems**
 
-## Tech Stack
-
-**Languages:** Java, C++ 
-**Backend:** Spring Boot, REST APIs, Microservices  
-**Databases:** Cassandra, Neo4j, PostgreSQL / SQL  
-**Tools:** Git, GitHub, Linux, IntelliJ, VS Code, Docker  
 
 
 
